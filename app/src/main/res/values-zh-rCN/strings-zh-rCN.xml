@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EasyCamera</string>
+    <string name="request_rationale">在使用之前，我们需要您手动请求相机权限</string>
+    <string name="tips">如果无法请求权限，则需要在设置中开启</string>
+    <string name="request_permissions">请求权限</string>
+    <string name="rationale">需要请求相机权限才能使用捏</string>
+</resources>

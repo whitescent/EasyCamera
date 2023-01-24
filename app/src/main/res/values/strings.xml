@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EasyCamera</string>
+    <string name="request_rationale">We need you to manually request camera permission before using</string>
+    <string name="tips">If you can\'t request permission, you need to turn it on in the settings</string>
+    <string name="request_permissions">Request permission</string>
+    <string name="rationale">We need to request camera permission to use.</string>
+</resources>
